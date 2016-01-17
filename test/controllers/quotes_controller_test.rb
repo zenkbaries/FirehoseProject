@@ -1,4 +1,4 @@
-require 'test_helper'
+ :id => rrequire 'test_helper'
 
 class QuotesControllerTest < ActionController::TestCase
 	test "quote show page" do
